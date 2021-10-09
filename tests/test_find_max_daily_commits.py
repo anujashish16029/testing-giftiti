@@ -5,13 +5,13 @@ CONTRIBUTIONS_CALENDAR_SVG = '''\
 <svg width="721" height="110" class="js-calendar-graph-svg">
   <g transform="translate(20, 20)">
       <g transform="translate(624, 0)">
-          <rect class="day" width="11" height="11" y="0" fill="#eeeeee" data-count="0" data-date="2016-05-08"/>
-          <rect class="day" width="11" height="11" y="13" fill="#eeeeee" data-count="0" data-date="2016-05-09"/>
-          <rect class="day" width="11" height="11" y="26" fill="#eeeeee" data-count="0" data-date="2016-05-10"/>
-          <rect class="day" width="11" height="11" y="39" fill="#eeeeee" data-count="0" data-date="2016-05-11"/>
-          <rect class="day" width="11" height="11" y="52" fill="#d6e685" data-count="6" data-date="2016-05-12"/>
-          <rect class="day" width="11" height="11" y="65" fill="#eeeeee" data-count="0" data-date="2016-05-13"/>
-          <rect class="day" width="11" height="11" y="78" fill="#eeeeee" data-count="0" data-date="2016-05-14"/>
+          <rect class="day" width="12" height="11" y="0" fill="#eeeeee" data-count="0" data-date="2016-05-08"/>
+          <rect class="day" width="12" height="11" y="13" fill="#eeeeee" data-count="0" data-date="2016-05-09"/>
+          <rect class="day" width="12" height="11" y="26" fill="#eeeeee" data-count="0" data-date="2016-05-10"/>
+          <rect class="day" width="12" height="11" y="39" fill="#eeeeee" data-count="0" data-date="2016-05-11"/>
+          <rect class="day" width="12" height="11" y="52" fill="#d6e685" data-count="6" data-date="2016-05-12"/>
+          <rect class="day" width="12" height="11" y="65" fill="#eeeeee" data-count="0" data-date="2016-05-13"/>
+          <rect class="day" width="12" height="11" y="78" fill="#eeeeee" data-count="0" data-date="2016-05-14"/>
       </g>
       <g transform="translate(637, 0)">
           <rect class="day" width="11" height="11" y="0" fill="#eeeeee" data-count="0" data-date="2016-05-15"/>
